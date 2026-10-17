@@ -2,7 +2,7 @@
 A halloween theme website, i created this website to bring fun
 it features a home, about, gallery and activities section along with smooth animation and interaction , i also added countdown timer.
 
-## Live [demo]((https://udayprakash999.github.io/Happy-Halloween/))
+## Live [demo](https://udayprakash999.github.io/Happy-Halloween/)
 
 # Features
 - a coundown timer
